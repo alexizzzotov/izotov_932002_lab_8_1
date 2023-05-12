@@ -1,0 +1,21 @@
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\bin\Debug\lab81.exe.config
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\bin\Debug\lab81.exe
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\bin\Debug\lab81.pdb
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.Form1.resources
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.exe
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba8.1\lab81\lab81\obj\Debug\lab81.pdb
+C:\Users\why_t\Downloads\izotov_L81\lab81\bin\Debug\lab81.exe.config
+C:\Users\why_t\Downloads\izotov_L81\lab81\bin\Debug\lab81.exe
+C:\Users\why_t\Downloads\izotov_L81\lab81\bin\Debug\lab81.pdb
+C:\Users\why_t\Downloads\izotov_L81\lab81\obj\Debug\lab81.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\izotov_L81\lab81\obj\Debug\lab81.Form1.resources
+C:\Users\why_t\Downloads\izotov_L81\lab81\obj\Debug\lab81.Properties.Resources.resources
+C:\Users\why_t\Downloads\izotov_L81\lab81\obj\Debug\lab81.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\izotov_L81\lab81\obj\Debug\lab81.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\izotov_L81\lab81\obj\Debug\lab81.exe
+C:\Users\why_t\Downloads\izotov_L81\lab81\obj\Debug\lab81.pdb
